@@ -1,3 +1,4 @@
+export * from './bake-morph-targets.js';
 export * from './center.js';
 export * from './clear-node-parent.js';
 export * from './clear-node-transform.js';
